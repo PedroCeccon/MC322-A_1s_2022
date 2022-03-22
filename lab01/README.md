@@ -8,7 +8,7 @@ Estrutura de pastas:<br/>
 
 
 ## Notebook 1 sobre Empréstimos
-
+[https://github.com/PedroCeccon/MC322-A_1s_2022/blob/main/lab01/notebook/emprestimo01.ipynb] (http://link.com)
 
 ## Notebook 2 sobre Empréstimos e TAD
 
